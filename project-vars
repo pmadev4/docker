@@ -2,4 +2,3 @@ version: 1.0.0
 location: /home/ubuntu/ANSIBLE
 linux_name: pedro
 user_home_dir: /home/{{linux_name}}
-docker_password: >> ENTER_DOCKER_PASSWORD_HERE <<
